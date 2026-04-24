@@ -81,7 +81,8 @@ If this were a real company, leadership could use these insights to:
 
 1. Run `retail_data_business_insights.sql` in MySQL Workbench to create schema and load data.
 2. Execute the analysis queries section by section to reproduce insights.
-3. Read `aurora_outfitters_business_case_reflection.pdf` for project learnings, assumptions, and improvement opportunities.
+3. [Watch Demo](https://drive.google.com/file/d/1f1wtN0QmLXxck4ykVdpsMeFUNMmREqv8/view?usp=sharing)
+4. Read `aurora_outfitters_business_case_reflection.pdf` for project learnings, assumptions, and improvement opportunities.
 
 ---
 
